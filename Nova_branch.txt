@@ -1,2 +1,4 @@
 adicionado um novo txt para adicionar no repositorio da nova branch.
 adicionado a linha do master
+adicao no 
+novoBranch
